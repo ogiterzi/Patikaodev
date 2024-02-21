@@ -1,0 +1,2 @@
+# Patikaodev
+Sorting ödevi
